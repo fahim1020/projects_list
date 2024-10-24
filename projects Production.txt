@@ -28,6 +28,10 @@ https://snapslide.glitch.me/
 https://fooddiarybd.onrender.com/
 https://snapcode.glitch.me/
 https://eventlytic.vercel.app/
+https://dont-delta.vercel.app/
+https://ghuserfinder.glitch.me/
+https://clipthumbnail.glitch.me/
+
 
 
 //Development Needed time to time
@@ -36,7 +40,7 @@ https://irportfolio.netlify.app/
 //Clones
 https://xclone.glitch.me/
 https://marstechclone.glitch.me
-https://carrot-clone.netlify.app/
+https://carrot-clone-navy.vercel.app/
 https://bitme-clone.netlify.app/
 https://portfolio-clone-xi.vercel.app/
 
